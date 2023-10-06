@@ -8,7 +8,13 @@ MexEE 402 - Elective 2
 A text function is a type of function that takes text as input and returns text as output. Text functions can be used to manipulate text 
 
 Length (LEN): Returns the length of a text string.
+
 Upper (UPPER): Converts all characters in a text string to uppercase.
+
 Lower (LOWER): Converts all characters in a text string to lowercase.
+
 Mid (MID): Extracts a specific number of characters from a text string, starting at a specified position.
+
 Replace (REPLACE): Replaces all occurrences of a specified text string with another specified text string.
+
+![Text Functions Upload_Page_1](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/92082602/24eaf785-7d53-4d3a-9830-08d18f3bb0b8)
