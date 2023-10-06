@@ -1,4 +1,4 @@
-![WnDrzn](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/92082602/204a3d53-6b5b-4a46-b0c5-c8ee987652de)
+   ![WnDrzn](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/92082602/204a3d53-6b5b-4a46-b0c5-c8ee987652de)
 
 # *DISNEY MOVIES DATASET*
 MX 4101 - Group 7
@@ -48,10 +48,11 @@ XOR Function (XOR): Returns true if exactly one of the given conditions is true,
 ISBLANK Function (ISBLANK): Returns true if the given cell is blank, and false otherwise.
 
 ## Information Functions
-
+Information functions provide information about the content, formatting and location of cells in an Excel Worksheet.
 
 
 ## Date and Time Functions
-
+Date and Time functions provides a variety of functions for working with dates and times. These functions allow you to perform calculations, manipulate dates and times, and format them as needed. 
 
 ## Lookup Functions
+Lookup functions are used to search for a specific value in a range or table of data and return related information from that range. These functions are extremely useful for tasks such as finding corresponding values, performing approximate matches, and retrieving data from large datasets.
