@@ -18,6 +18,7 @@ A text function is a type of function that takes text as input and returns text 
 
 >>Replace (REPLACE): *Replaces all occurrences of a specified text string with another specified text string.*
 
+file:///C:/Users/renze/Downloads/Text-Functions-Upload.html
 
 ## Math Functions
 A math function is a built-in mathematical operation or formula that you can use to perform various calculations on numerical data in your spreadsheets. These functions make it easier to perform complex mathematical operations without having to write custom formulas. 
