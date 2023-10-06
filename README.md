@@ -5,7 +5,7 @@ MX 4101 - Group 7
 
 MexEE 402 - Elective 2 
 
-# Text Functions
+## Text Functions
 A text function is a type of function that takes text as input and returns text as output. Text functions can be used to manipulate text 
 
 Length (LEN): Returns the length of a text string.
