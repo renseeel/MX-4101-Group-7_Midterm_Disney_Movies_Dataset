@@ -39,6 +39,8 @@ A logical function is a built-in functions that allows you to perform operations
 
 ## Information Functions
 
+![Midterm_Group_7_Information_Functions UPLOAD_Page_1](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/92082602/1605e9dc-4bda-4c66-9da6-b5e09a485b0a)
+
 
 ## Date and Time Functions
 
