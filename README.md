@@ -50,9 +50,40 @@ A logical function is a built-in functions that allows you to perform operations
 ## Information Functions
 Information functions provide information about the content, formatting and location of cells in an Excel Worksheet.
 
+>>ISERROR Function (ISERROR): Returns true if the value of the cell is an error, false otherwise.
+
+>>ISNUMBER Function (ISNUMBER): Returns true if the value of the cell is a number, false otherwise.
+
+>>ISTEXT Function (ISTEXT): Returns true if the value of the cell is text, false otherwise.
+
+>>ISNA Function (ISNA): Returns true if the value of the cell is #N/A, false otherwise.
+
+>>ISREF Function (ISREF): Returns true if the value of the cell is a reference to another cell or range of cells, false otherwise.
 
 ## Date and Time Functions
 Date and Time functions provides a variety of functions for working with dates and times. These functions allow you to perform calculations, manipulate dates and times, and format them as needed. 
+ 
+ >>WEEKNUM Function (WEEKNUM): Returns the week number of a date, according to the specified locale.
+
+>>DAY Function (WEEKNUM): Returns the week number of a date, according to the specified locale.
+
+>>MONTH Function (MONTH): Returns the month number from a date.
+
+>>YEAR Function (YEAR): Returns the year number from a date.
+
+>>DATE Function (DATE): Creates a date from the specified year, month, and day.
+
+>>EOMONTH Function (EOMONTH): Returns the last day of the month for a specified date.
 
 ## Lookup Functions
 Lookup functions are used to search for a specific value in a range or table of data and return related information from that range. These functions are extremely useful for tasks such as finding corresponding values, performing approximate matches, and retrieving data from large datasets.
+
+LOOKUP Function (LOOKUP): 
+
+ADDRESS Function (ADDRESS):
+
+MATCH Function (MATCH):
+
+CHOOSE Function (CHOOSE):
+
+COLUMN Function (COLUMN):
