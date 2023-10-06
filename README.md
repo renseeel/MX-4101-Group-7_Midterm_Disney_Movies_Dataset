@@ -37,6 +37,16 @@ Sign (SIGN): Returns the sign of the given number. The sign of a number is eithe
 ## Logical Functions
 A logical function is a built-in functions that allows you to perform operations based on logical conditions or criteria. These functions help you make decisions, evaluate data, and perform tasks based on whether certain conditions are met. Logical functions return either TRUE or FALSE as their results, which are commonly used for conditional formatting, data analysis, and complex decision-making within spreadsheets. 
 
+IF Function (IF): Returns one value if a condition is met, and another value if the condition is not met.
+
+OR Function (OR): Returns true if any of the given conditions are true, and false if all of the conditions are false.
+
+NOT Function (NOT): Returns the opposite of the given Boolean value. 
+
+XOR Function (XOR): Returns true if exactly one of the given conditions is true, and false otherwise.
+
+ISBLANK Function (ISBLANK): Returns true if the given cell is blank, and false otherwise.
+
 ## Information Functions
 
 
