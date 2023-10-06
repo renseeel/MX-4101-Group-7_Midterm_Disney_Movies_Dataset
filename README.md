@@ -78,12 +78,12 @@ Date and Time functions provides a variety of functions for working with dates a
 ## Lookup Functions
 Lookup functions are used to search for a specific value in a range or table of data and return related information from that range. These functions are extremely useful for tasks such as finding corresponding values, performing approximate matches, and retrieving data from large datasets.
 
-LOOKUP Function (LOOKUP): 
+>>LOOKUP Function (LOOKUP): Returns a value from a table based on a given value.
 
-ADDRESS Function (ADDRESS):
+>>ADDRESS Function (ADDRESS): Returns the cell address of a cell based on a given row and column number.
 
-MATCH Function (MATCH):
+>>MATCH Function (MATCH): Returns the position of a value in a table.
 
-CHOOSE Function (CHOOSE):
+>>CHOOSE Function (CHOOSE): Returns a value from a list of values based on a given index number.
 
-COLUMN Function (COLUMN):
+>>COLUMN Function (COLUMN): Returns the column number of a cell.
