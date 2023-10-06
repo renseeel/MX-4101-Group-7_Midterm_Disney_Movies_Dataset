@@ -24,6 +24,16 @@ Replace (REPLACE): Replaces all occurrences of a specified text string with anot
 ## Math Functions
 A math function is a built-in mathematical operation or formula that you can use to perform various calculations on numerical data in your spreadsheets. These functions make it easier to perform complex mathematical operations without having to write custom formulas. 
 
+Greatest Common Denominator (GCD): Returns the largest positive integer that is a divisor of all the given integers.
+
+Average (AVERAGE): Returns the average of the given numbers.
+
+Absolute Value (ABS): Returns the non-negative absolute value of the given number.
+
+Square Root(SQRT): Returns the square root of the given number.
+
+Sign (SIGN): Returns the sign of the given number. The sign of a number is either 1 (positive), 0 (zero), or -1 (negative).
+
 ## Logical Functions
 A logical function is a built-in functions that allows you to perform operations based on logical conditions or criteria. These functions help you make decisions, evaluate data, and perform tasks based on whether certain conditions are met. Logical functions return either TRUE or FALSE as their results, which are commonly used for conditional formatting, data analysis, and complex decision-making within spreadsheets. 
 
