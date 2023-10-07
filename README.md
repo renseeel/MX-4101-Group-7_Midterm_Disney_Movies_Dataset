@@ -18,6 +18,7 @@ A text function is a type of function that takes text as input and returns text 
 
 >>Replace (REPLACE): *Replaces all occurrences of a specified text string with another specified text string.*
 
+![Text Functions Upload](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/92082602/75fcde06-a7b5-4b27-8ce0-7e57a32fe75b)
 
 
 ## Math Functions
