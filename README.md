@@ -90,3 +90,6 @@ Lookup functions are used to search for a specific value in a range or table of 
 >>CHOOSE Function (CHOOSE): *Returns a value from a list of values based on a given index number.*
 
 >>COLUMN Function (COLUMN): *Returns the column number of a cell.*
+
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/7ac21598-f2be-4a0b-a267-fc863305720d)
+
