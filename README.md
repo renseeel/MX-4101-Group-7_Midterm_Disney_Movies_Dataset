@@ -50,6 +50,9 @@ A logical function is a built-in functions that allows you to perform operations
 
 >>ISBLANK Function (ISBLANK): *Returns true if the given cell is blank, and false otherwise.*
 
+![Midterm_Group_7_Information_Functions UPLOAD_Page_1](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/92082602/7276cbe2-dde3-4e77-b36d-9c671c1d978d)
+
+
 ## Information Functions
 Information functions provide information about the content, formatting and location of cells in an Excel Worksheet.
 
