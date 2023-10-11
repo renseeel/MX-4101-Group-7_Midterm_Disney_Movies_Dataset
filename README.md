@@ -34,6 +34,9 @@ A math function is a built-in mathematical operation or formula that you can use
 
 >>Sign (SIGN): *Returns the sign of the given number. The sign of a number is either 1 (positive), 0 (zero), or -1 (negative).*
 
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/7c4dd26f-f2e9-49c0-8df9-9bed16f884fb)
+
+
 ## Logical Functions
 A logical function is a built-in functions that allows you to perform operations based on logical conditions or criteria. These functions help you make decisions, evaluate data, and perform tasks based on whether certain conditions are met. Logical functions return either TRUE or FALSE as their results, which are commonly used for conditional formatting, data analysis, and complex decision-making within spreadsheets. 
 
