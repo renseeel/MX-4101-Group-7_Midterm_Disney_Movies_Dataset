@@ -66,6 +66,9 @@ Information functions provide information about the content, formatting and loca
 
 >>ISREF Function (ISREF): *Returns true if the value of the cell is a reference to another cell or range of cells, false otherwise.*
 
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/a227bc80-8a11-4234-8b0c-c5877df4e2fc)
+
+
 ## Date and Time Functions
 Date and Time functions provides a variety of functions for working with dates and times. These functions allow you to perform calculations, manipulate dates and times, and format them as needed. 
  
@@ -80,6 +83,9 @@ Date and Time functions provides a variety of functions for working with dates a
 >>DATE Function (DATE): *Creates a date from the specified year, month, and day.*
 
 >>EOMONTH Function (EOMONTH): *Returns the last day of the month for a specified date.*
+
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/4b6e316d-2d63-4924-931e-68f6400a972b)
+
 
 ## Lookup Functions
 Lookup functions are used to search for a specific value in a range or table of data and return related information from that range. These functions are extremely useful for tasks such as finding corresponding values, performing approximate matches, and retrieving data from large datasets.
