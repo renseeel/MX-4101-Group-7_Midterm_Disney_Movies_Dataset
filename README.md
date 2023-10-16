@@ -118,7 +118,8 @@ Disney movies have been captivating audiences for generations. This dashboard ex
 
 PG-13 movies are the biggest box office draw, accounting for 40% of total movie gross. This is likely due to the fact that PG-13 movies are appealing to a wide range of audiences, including teenagers and adults.
 
-![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/7821f13b-5c6f-4195-b9ab-5b054c5c6b51)
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/84be9532-b1d9-4a75-a5d6-c2bf614babcb)
+
 
 **TOP GROSSING MOVIE BY GENRE**
 
