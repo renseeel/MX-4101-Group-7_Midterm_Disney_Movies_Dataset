@@ -105,23 +105,29 @@ Lookup functions are used to search for a specific value in a range or table of 
 
 ## DASHBOARD
 
+Disney movies have been captivating audiences for generations. This dashboard explores the world of Disney movies, from the highest-grossing to the most critically acclaimed. Take a look to see which Disney movies have stood the test of time, and which ones are making waves today.
+
 >>YEARLY MOVIE GROSS AND INFLATION-ADJUSTED GROSS
+
 2016 has the highest grossing year of all time. This was due to a number of factors, including the release of several blockbuster films, such as "Captain America: Civil War," "Rogue One: A Star Wars Story," and "Finding Dory." The success of these films helped to boost the overall box office for the year.
 
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/f058081e-24f9-4ad5-bcf2-4b3af2ea8f44)
 
 
 >>Movie Gross by MPAA Rating
+
 PG-13 movies are the biggest box office draw, accounting for 40% of total movie gross. This is likely due to the fact that PG-13 movies are appealing to a wide range of audiences, including teenagers and adults.
 
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/7821f13b-5c6f-4195-b9ab-5b054c5c6b51)
 
 >>TOP GROSSING MOVIE BY GENRE
+
 Adventure films have always been a popular genre, and it's no surprise that they also top the list of the highest-grossing films of all time. From epic quests to thrilling escapes, adventure films have something to offer everyone.
 
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/55dd19f5-31fc-4845-9acc-5ab702d97384)
 
->>GENRE GROSS  AND INFLATION-ADJUSTED GROSS 
+>>GENRE GROSS  AND INFLATION-ADJUSTED GROSS
+
 Action movies are the highest-grossing genre, followed by Adventure and Comedy. Movies in the Western genre have the lowest gross.
 
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/1c277308-c601-4698-8679-3d777d86908f)
