@@ -102,3 +102,26 @@ Lookup functions are used to search for a specific value in a range or table of 
 
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/7ac21598-f2be-4a0b-a267-fc863305720d)
 
+
+## DASHBOARD
+
+YEARLY MOVIE GROSS AND INFLATION-ADJUSTED GROSS
+
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/f058081e-24f9-4ad5-bcf2-4b3af2ea8f44)
+
+
+Movie Gross by MPAA Rating
+
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/7821f13b-5c6f-4195-b9ab-5b054c5c6b51)
+
+TOP GROSSING MOVIE BY GENRE
+
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/55dd19f5-31fc-4845-9acc-5ab702d97384)
+
+GENRE GROSS  AND INFLATION-ADJUSTED GROSS 
+
+![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/1c277308-c601-4698-8679-3d777d86908f)
+
+
+
+
