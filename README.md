@@ -133,6 +133,7 @@ Action movies are the highest-grossing genre, followed by Adventure and Comedy. 
 
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143622288/1c277308-c601-4698-8679-3d777d86908f)
 
+## The Magical World of Disney Movies
 ![image](https://github.com/renseeel/MX-4101-Group-7_Midterm_Disney_Movies_Dataset/assets/143627650/31eb0e0e-57ad-4c86-8983-b28d33d7027a)
 
 
